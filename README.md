@@ -1,2 +1,2 @@
-# pixelads_frontend
+# pixelads Dapp
 Pixels Ads Frontend 
