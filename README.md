@@ -1,13 +1,13 @@
 # pixelads Dapp
 > 
 
-# Project Stack
+## Project Stack
 
-## Client
+### Client
 - React
 - Metamask
 
-## Server
+### Server
 - Solidity
 - Node.js
 - Docker
