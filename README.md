@@ -1,5 +1,5 @@
 # pixelads Dapp
-> 
+> Pixel Grid Advertisements
 
 ## Project Stack
 
